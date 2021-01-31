@@ -1,15 +1,14 @@
-# Res_NET20
+# Res_NET20 trained on CIRAF-10
+Tasks:
 
-Train ResNet20 on CIFAR10, implement the quantization method and get its results.
+- Train ResNet20 on CIFAR10, implement the quantization method and get its results.
 
-Implement the ResNet20 architecture.
+- Implement the ResNet20 architecture.
 
-Train ResNet20 (the accuracy of the network must be at least 90%)
+- Train ResNet20 (the accuracy of the network must be at least 90%)
 
-Use Pytorch Quantization
+- Use Pytorch Quantization
 
-Quantize to 16 and 8 bits
+- Implement PTQ from scratch
 
-Implement PTQ from scratch
-
-Comparison of results.
+- Comparison of results.
